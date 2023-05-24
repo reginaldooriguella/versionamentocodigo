@@ -1,4 +1,4 @@
-# versionamentocodigo
+# Versionamento de codigo
 Git e Versionamento
 
 GIT é um sistema de controle de versão distribuído. Ele é um software livre desenvolvido por Linus Torvalds, o criador do Linux. O GIT foi originalmente criado para gerenciar o desenvolvimento do kernel do Linux, mas desde então se tornou um dos sistemas de controle de versão mais amplamente adotados por desenvolvedores de software ao redor do mundo.
